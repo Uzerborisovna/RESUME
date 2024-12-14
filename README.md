@@ -1,6 +1,7 @@
 Зернова Юлия Борисовна
 
-![foto](C:\Users\Baltor\Desktop\ЮЗ\RESUME\IMG_20240930_003936_707)
+![foto](https://github.com/Uzerborisovna/RESUME/blob/main/IMG_20240930_003936_707.jpg?raw=true)
+
 
 
 

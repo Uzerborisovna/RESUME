@@ -1,4 +1,4 @@
-Зернова Юлия Борисовна
+#Зернова Юлия Борисовна
 
 ![foto](https://github.com/Uzerborisovna/RESUME/blob/main/IMG_20240930_003936_707.jpg?raw=true)
 
